@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ghojah-homepage/static/css/main.1d48bc3b.chunk.css",
-    "main.js": "/ghojah-homepage/static/js/main.c81a017f.chunk.js",
-    "main.js.map": "/ghojah-homepage/static/js/main.c81a017f.chunk.js.map",
-    "runtime-main.js": "/ghojah-homepage/static/js/runtime-main.d39dda10.js",
-    "runtime-main.js.map": "/ghojah-homepage/static/js/runtime-main.d39dda10.js.map",
-    "static/js/2.1bbc76a9.chunk.js": "/ghojah-homepage/static/js/2.1bbc76a9.chunk.js",
-    "static/js/2.1bbc76a9.chunk.js.map": "/ghojah-homepage/static/js/2.1bbc76a9.chunk.js.map",
-    "static/js/3.077d03d5.chunk.js": "/ghojah-homepage/static/js/3.077d03d5.chunk.js",
-    "static/js/3.077d03d5.chunk.js.map": "/ghojah-homepage/static/js/3.077d03d5.chunk.js.map",
+    "main.css": "/ghojah-homepage/static/css/main.d0a13abe.chunk.css",
+    "main.js": "/ghojah-homepage/static/js/main.dc3187ca.chunk.js",
+    "main.js.map": "/ghojah-homepage/static/js/main.dc3187ca.chunk.js.map",
+    "runtime-main.js": "/ghojah-homepage/static/js/runtime-main.6c0347b2.js",
+    "runtime-main.js.map": "/ghojah-homepage/static/js/runtime-main.6c0347b2.js.map",
+    "static/js/2.aad93b9e.chunk.js": "/ghojah-homepage/static/js/2.aad93b9e.chunk.js",
+    "static/js/2.aad93b9e.chunk.js.map": "/ghojah-homepage/static/js/2.aad93b9e.chunk.js.map",
+    "static/js/3.9f8b561b.chunk.js": "/ghojah-homepage/static/js/3.9f8b561b.chunk.js",
+    "static/js/3.9f8b561b.chunk.js.map": "/ghojah-homepage/static/js/3.9f8b561b.chunk.js.map",
     "index.html": "/ghojah-homepage/index.html",
-    "static/css/main.1d48bc3b.chunk.css.map": "/ghojah-homepage/static/css/main.1d48bc3b.chunk.css.map",
-    "static/js/2.1bbc76a9.chunk.js.LICENSE.txt": "/ghojah-homepage/static/js/2.1bbc76a9.chunk.js.LICENSE.txt",
-    "static/media/BackGround.d69d1d80.jpg": "/ghojah-homepage/static/media/BackGround.d69d1d80.jpg",
+    "static/css/main.d0a13abe.chunk.css.map": "/ghojah-homepage/static/css/main.d0a13abe.chunk.css.map",
+    "static/js/2.aad93b9e.chunk.js.LICENSE.txt": "/ghojah-homepage/static/js/2.aad93b9e.chunk.js.LICENSE.txt",
+    "static/media/WelcomeMsg.css": "/ghojah-homepage/static/media/BackGround.d69d1d80.jpg",
     "static/media/index.css": "/ghojah-homepage/static/media/Cairo-Regular.8d7a1db4.ttf",
     "static/media/logo.2fe19fea.png": "/ghojah-homepage/static/media/logo.2fe19fea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d39dda10.js",
-    "static/js/2.1bbc76a9.chunk.js",
-    "static/css/main.1d48bc3b.chunk.css",
-    "static/js/main.c81a017f.chunk.js"
+    "static/js/runtime-main.6c0347b2.js",
+    "static/js/2.aad93b9e.chunk.js",
+    "static/css/main.d0a13abe.chunk.css",
+    "static/js/main.dc3187ca.chunk.js"
   ]
 }
