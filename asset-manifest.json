@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ghojah-homepage/static/css/main.d0a13abe.chunk.css",
-    "main.js": "/ghojah-homepage/static/js/main.dc3187ca.chunk.js",
-    "main.js.map": "/ghojah-homepage/static/js/main.dc3187ca.chunk.js.map",
+    "main.js": "/ghojah-homepage/static/js/main.72579077.chunk.js",
+    "main.js.map": "/ghojah-homepage/static/js/main.72579077.chunk.js.map",
     "runtime-main.js": "/ghojah-homepage/static/js/runtime-main.6c0347b2.js",
     "runtime-main.js.map": "/ghojah-homepage/static/js/runtime-main.6c0347b2.js.map",
     "static/js/2.aad93b9e.chunk.js": "/ghojah-homepage/static/js/2.aad93b9e.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6c0347b2.js",
     "static/js/2.aad93b9e.chunk.js",
     "static/css/main.d0a13abe.chunk.css",
-    "static/js/main.dc3187ca.chunk.js"
+    "static/js/main.72579077.chunk.js"
   ]
 }
