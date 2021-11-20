@@ -9,9 +9,9 @@ const WelcomeMsg = () => {
         <div className='backgroundCover'>
 
             <div className='msgContainer'>
-                <img src={MsgUpperPart} />
+                <img src={MsgUpperPart} alt='upper img' />
                 <strong style={{ color: 'rgb(124, 90, 90)' }}>خدماتنا و مواقعنا</strong>
-                <img src={MsgLowerPart} />
+                <img src={MsgLowerPart} alt='lower img' />
                 <h3 style={{ margin: '8px 0 16px' }}>أهلا بكم</h3>
                 <p>نقدم لكم مجموعة خدماتنا ، قم بأخذ فكرة عن المواقع بالاطلاع على الملخصات بالاسفل <br />ستجد شيئا يناسبك بالتأكيد</p>
             </div>

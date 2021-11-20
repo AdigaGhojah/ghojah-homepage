@@ -6,7 +6,7 @@ const Project = (props) => {
                 <img className='projectImage' style={{width:'270px'}} src={props.project.img} alt={props.project.title} />
             </a>
             <div>
-                <a className='projectName' title={props.project.title}>
+                <a className='projectName' href={props.project.link} title={props.project.title}>
                     <h2>{props.project.title}</h2>
                 </a>
                 <p className='projectDescription'>
